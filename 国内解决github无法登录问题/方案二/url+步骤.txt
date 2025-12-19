@@ -1,0 +1,5 @@
+https://github.com/docmirror/dev-sidecar
+在Releases中下载安装包
+安装CA根证书：
+1、点击右上角“点此去安装按钮”，打开证书
+2、然后按如下图步骤将根证书添加到信任的根证书颁发机构

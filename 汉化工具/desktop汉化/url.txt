@@ -1,0 +1,7 @@
+https://github.com/743859910/GitHub_Desktop_Simplified_Chinese
+
+
+将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.5.4】\resources\app 【请一定记得提前做好备份】
+替换完成后 重新打开GitHub Desktop
+windows路径：C:\Users\Administrator\AppData\Local\GitHubDesktop\app-3.5.4\resources\app
